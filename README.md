@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/USERNAME/Salman4256/output/github-contribution-grid-snake.svg">
 </p>
 
 ## 🚀 About Me
