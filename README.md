@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salman4256&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman4256&layout=compact&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=Salman4256&color=blue)
 # Hi 👋, I'm Mohamed Salman
 
 ## 🚀 About Me
