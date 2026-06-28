@@ -15,9 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Mohamed Salman
+<h1 align="center">
+Hi 👋, I'm Mohamed Salman
+</h1>
+
+<h3 align="center">
+Cyber Security • Full Stack Developer • AI Enthusiast
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohamed+Salman;Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Developer)](https://git.io/typing-svg)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Enthusiast;AI+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=700&height=50">
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salman4256&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman4256&layout=compact&theme=tokyonight)
@@ -27,12 +37,6 @@ Here are some ideas to get you started:
 <a href="https://mohamedsalman-portfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
 </a>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Salman4256/Salman4256/output/github-contribution-grid-snake.svg">
-</p>
-
-https://github.com/yoshi389111/github-profile-3d-contrib
 
 ## 🚀 About Me
 - 🎓 Final Year CSE Student
@@ -80,10 +84,16 @@ Responsive personal portfolio.
 
 ## 📫 Contact
 
-Email: mohamedsalman.p.official@gmail.com
+<p align="center">
+<a href="https://github.com/Salman4256">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+</a>
 
-LinkedIn:
-https://www.linkedin.com/in/mohamed-salman-p-0593003a1/
+<a href="https://linkedin.com/in/mohamed-salman-p-0593003a1">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+</a>
 
-GitHub:
-https://github.com/Salman4256
+<a href="mailto:mohamedsalman.p.official@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?logo=gmail">
+</a>
+</p>
