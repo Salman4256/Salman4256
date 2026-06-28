@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **Salman4256/Salman4256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Mohamed Salman
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salman4256&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman4256&layout=compact&theme=tokyonight)
 
@@ -22,7 +25,7 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://mohamedsalman-portfolio.netlify.app)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohamed+Salman;Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Developer)](https://git.io/typing-svg)
-# Hi 👋, I'm Mohamed Salman
+
 
 ## 🚀 About Me
 - 🎓 Final Year CSE Student
@@ -34,6 +37,7 @@ Here are some ideas to get you started:
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,linux"/>
 </p>
+
 ### Languages
 - Java
 - Python
