@@ -52,7 +52,7 @@ Responsive personal portfolio.
 Email: your@email.com
 
 LinkedIn:
-https://linkedin.com/in/username
+https://www.linkedin.com/in/mohamed-salman-p-0593003a1/
 
 GitHub:
-https://github.com/username
+https://github.com/Salman4256
