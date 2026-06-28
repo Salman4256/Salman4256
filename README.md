@@ -14,3 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Mohamed Salman
+
+## 🚀 About Me
+- 🎓 Final Year CSE Student
+- 🔒 Cyber Security Enthusiast
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Learner
+
+## 🛠 Skills
+
+### Languages
+- Java
+- Python
+- JavaScript
+
+### Web
+- HTML
+- CSS
+- React
+- Node.js
+
+### Database
+- MySQL
+- MongoDB
+
+## 📂 Featured Projects
+
+### Gesture Mouse System
+AI-powered virtual mouse using hand gestures.
+
+### Portfolio Website
+Responsive personal portfolio.
+
+## 📫 Contact
+
+Email: your@email.com
+
+LinkedIn:
+https://linkedin.com/in/username
+
+GitHub:
+https://github.com/username
