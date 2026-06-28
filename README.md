@@ -24,8 +24,13 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mohamed-salman-p-0593003a1/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://mohamedsalman-portfolio.netlify.app)
+<a href="https://mohamedsalman-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+</a>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+</p>
 
 ## 🚀 About Me
 - 🎓 Final Year CSE Student
@@ -52,6 +57,16 @@ Here are some ideas to get you started:
 ### Database
 - MySQL
 - MongoDB
+
+## Certifications
+
+✔ Google Cybersecurity
+
+✔ Cisco Networking
+
+✔ IBM AI
+
+✔ Python Programming
 
 ## 📂 Featured Projects
 
