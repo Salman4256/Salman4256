@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - 🤖 AI & Machine Learning Learner
 
 ## 🛠 Skills
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,linux"/>
+</p>
 ### Languages
 - Java
 - Python
