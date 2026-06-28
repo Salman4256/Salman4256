@@ -49,7 +49,7 @@ Responsive personal portfolio.
 
 ## 📫 Contact
 
-Email: your@email.com
+Email: mohamedsalman.p.official@gmail.com
 
 LinkedIn:
 https://www.linkedin.com/in/mohamed-salman-p-0593003a1/
