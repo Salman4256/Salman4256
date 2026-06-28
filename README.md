@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 Hi 👋, I'm Mohamed Salman
 </h1>
 
-<h3 align="center">
-Cyber Security • Full Stack Developer • AI Enthusiast
-</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohamed+Salman;Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Developer)](https://git.io/typing-svg)
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Enthusiast;AI+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=700&height=50">
 </p>
@@ -73,8 +67,24 @@ Cyber Security • Full Stack Developer • AI Enthusiast
 ✔ IBM AI
 
 ✔ Python Programming
+## Education
+
+🎓 B.E Computer Science & Engineering
+
+Final Year
+
+CGPA: 7.5+
 
 ## 📂 Featured Projects
+
+### Phishing Detection Using URL Features
+based Machine Learning concepts
+
+### Online Code Compiler
+Using online API to create online compiler
+
+### Data Compression
+Huffman code Algorithm
 
 ### Gesture Mouse System
 AI-powered virtual mouse using hand gestures.
@@ -97,3 +107,4 @@ Responsive personal portfolio.
 <img src="https://img.shields.io/badge/Email-red?logo=gmail">
 </a>
 </p>
+
