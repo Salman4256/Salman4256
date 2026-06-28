@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salman4256&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman4256&layout=compact&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/mohamed-salman-p-0593003a1/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://[YOUR_WEBSITE](https://mohamedsalman-portfolio.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mohamed-salman-p-0593003a1/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://mohamedsalman-portfolio.netlify.app)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohamed+Salman;Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Developer)](https://git.io/typing-svg)
 # Hi 👋, I'm Mohamed Salman
 
